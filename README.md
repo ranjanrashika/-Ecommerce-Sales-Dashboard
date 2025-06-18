@@ -39,6 +39,8 @@ Canva / PowerPoint – For final insight presentation
 
 ECOMMERCE SALES DASHBOARD.pbix – Power BI dashboard file
 
+Dashboard.jpg - Dashboard snapshot
+
 Details.xlsx – Cleaned raw data used in the project
 Orders.xlsx – Cleaned raw data used in the project
 
